@@ -1,0 +1,88 @@
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\bin\Debug\MIS.exe
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\bin\Debug\MIS.pdb
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\obj\Debug\ResolveAssemblyReference.cache
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\obj\Debug\MIS.Form1.resources
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\obj\Debug\MIS.Properties.Resources.resources
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\obj\Debug\MIS.exe
+E:\学习\课件\c#\c#课件\新建文件夹\学生数据管理\Backup\MIS\obj\Debug\MIS.pdb
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\obj\Debug\MIS.exe
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\obj\Debug\MIS.pdb
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\bin\Debug\MIS.exe
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\bin\Debug\MIS.pdb
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\obj\Debug\ResolveAssemblyReference.cache
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\obj\Debug\MIS.Form1.resources
+E:\zzd\所有要保存的\学习\c#\程序实例\MIS\学生数据管理\Backup\MIS\obj\Debug\MIS.Properties.Resources.resources
+E:\MIS\obj\Debug\MIS.exe
+E:\MIS\obj\Debug\MIS.pdb
+E:\MIS\bin\Debug\MIS.exe
+E:\MIS\bin\Debug\MIS.pdb
+E:\MIS\obj\Debug\ResolveAssemblyReference.cache
+E:\MIS\obj\Debug\MIS.Form1.resources
+E:\MIS\obj\Debug\MIS.Properties.Resources.resources
+E:\MIS\obj\Debug\ResGen.read.1.tlog
+E:\MIS\obj\Debug\ResGen.write.1.tlog
+E:\MIS20151208\MIS\obj\Debug\MIS.exe
+E:\MIS20151208\MIS\obj\Debug\MIS.pdb
+E:\MIS20151208\MIS\bin\Debug\MIS.exe
+E:\MIS20151208\MIS\bin\Debug\MIS.pdb
+E:\MIS20151208\MIS\obj\Debug\ResolveAssemblyReference.cache
+E:\MIS20151208\MIS\obj\Debug\MIS.Form1.resources
+E:\MIS20151208\MIS\obj\Debug\MIS.Properties.Resources.resources
+E:\MIS20151208\MIS\obj\Debug\ResGen.read.1.tlog
+E:\MIS20151208\MIS\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\MIS.exe
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\MIS.pdb
+C:\Documents and Settings\Administrator\桌面\MIS\bin\Debug\MIS.exe
+C:\Documents and Settings\Administrator\桌面\MIS\bin\Debug\MIS.pdb
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\MIS.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MIS\obj\Debug\ResGen.write.1.tlog
+G:\MIS 1\obj\Debug\MIS.exe
+G:\MIS 1\obj\Debug\MIS.pdb
+G:\MIS 1\bin\Debug\MIS.exe
+G:\MIS 1\bin\Debug\MIS.pdb
+G:\MIS 1\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+G:\MIS 1\obj\Debug\MIS.Form1.resources
+G:\MIS 1\obj\Debug\MIS.Properties.Resources.resources
+G:\MIS 1\obj\Debug\MIS.csproj.GenerateResource.Cache
+G:\MIS 1\obj\Debug\MIS.Form2.resources
+G:\MIS 1\obj\Debug\MIS.Form3.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.exe
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.pdb
+C:\Users\lenovo\Desktop\MIS 1\bin\Debug\MIS.exe
+C:\Users\lenovo\Desktop\MIS 1\bin\Debug\MIS.pdb
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.Form1.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.Form2.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.Form3.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.FrmLogin.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\MIS 1\obj\Debug\MIS.FrmAbout.resources
+C:\Users\lenovo\Desktop\答辩\MIS 1\obj\Debug\MIS.exe
+C:\Users\lenovo\Desktop\答辩\MIS 1\obj\Debug\MIS.pdb
+G:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.exe
+G:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.pdb
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.exe
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.pdb
+F:\各科资料\c#\作业\MIS 1\bin\Debug\MIS.exe
+F:\各科资料\c#\作业\MIS 1\bin\Debug\MIS.pdb
+F:\各科资料\c#\作业\MIS 1\obj\Debug\ResolveAssemblyReference.cache
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.Form1.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.Form2.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.Form3.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.FrmAbout.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.FrmLogin.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\MIS.Properties.Resources.resources
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.read.5.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\ResGen.read.1.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.write.4.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\GenerateResource-ResGen.write.5.tlog
+F:\各科资料\c#\作业\MIS 1\obj\Debug\ResGen.write.1.tlog
